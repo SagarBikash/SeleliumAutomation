@@ -24,8 +24,8 @@ public class BtnInLoop {
      
      }*/
      
-     for(WebElement btn2:btn) {
-    	 btn2.click();
+     for(WebElement btn3:btn) {
+    	 btn3.click();
     	 
      }
      
